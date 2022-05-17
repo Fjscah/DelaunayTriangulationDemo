@@ -2,16 +2,16 @@
 DelaunayTriangulation demo for points，constrain edge，hierarchy contour
 > DT for random seed points
 
-![](example/1.jpg)
+<img src="example/1.jpg" style="zoom:50%;" />
 
 > DT for draw path
 
-![](example/2.jpg)
+<img src="example/2.jpg" style="zoom:50%;" />
 
 > CDT for draw path
 
-![](example/3.jpg)
+<img src="example/3.jpg" style="zoom:50%;" />
 
 > CDT for draw path,remove outlier triangle 
 
-![](example/4.jpg)
+<img src="example/4.jpg" style="zoom:50%;" />
