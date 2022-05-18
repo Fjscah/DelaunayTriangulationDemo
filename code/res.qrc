@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/eye.png</file>
+        <file>images/hide.png</file>
+        <file>images/openfile.png</file>
+        <file>images/openfolder.png</file>
+        <file>images/quit.png</file>
+        <file>images/zoom.png</file>
+        <file>images/zoom-in.ico</file>
+        <file>images/zoom-out.ico</file>
+        <file>images/folder.ico</file>
+        <file>images/cancel.png</file>
+        <file>images/cross.png</file>
+        <file>images/ui-close.svg</file>
+        <file>images/auto_fit_height_regular_icon_205620.ico</file>
+        <file>images/auto_fit_width_regular_icon_205619.ico</file>
+        <file>images/Fittowidth_arrow_3723.ico</file>
+        <file>images/icons8-fit-vertical-32.png</file>
+        <file>images/icons8-fit-to-page-32.png</file>
+    </qresource>
+</RCC>
